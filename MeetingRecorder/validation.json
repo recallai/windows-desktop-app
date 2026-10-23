@@ -1,0 +1,23 @@
+{
+  "csharpSyntaxErrors": false,
+  "xml": {
+    "MainWindow.xaml": "parsed",
+    "app.manifest": "parsed",
+    "MeetingRecorder.exe.config": "parsed",
+    "MeetingRecorder.csproj": "parsed"
+  },
+  "controls": {
+    "missing": [],
+    "duplicates": []
+  },
+  "releasedApiNamesMissing": [],
+  "nativeCompilation": "Not run: process execution blocked by environment",
+  "recordingPlayback": "Not run: requires native Windows execution",
+  "dependency": {
+    "package": "ScreenRecorderLib",
+    "version": "7.0.1",
+    "platform": "x64",
+    "source": "https://api.nuget.org/v3-flatcontainer/screenrecorderlib/7.0.1/screenrecorderlib.7.0.1.nupkg",
+    "sha256": "6dfa784166a1dad4e83e74d278e7cfeb92e3cc514170a5508e7209a0769bcfd2"
+  }
+}
