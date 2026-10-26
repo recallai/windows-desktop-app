@@ -9,9 +9,8 @@ Requirements:
 No API key, Node.js, or Visual Studio required.
 
 How to run the app:
-1. Download the repository using Code > Download ZIP.
-2. Right-click the ZIP and choose Extract All.
-3. Open the extracted MeetingRecorder folder and double-click Start.cmd. It builds and launches the app.
+1. Download the repository 
+2. Open the extracted MeetingRecorder folder and double-click Start.cmd. It builds and launches the app.
    
 Record a meeting:
 1. Open your meeting and click Refresh windows and devices in the recorder.
